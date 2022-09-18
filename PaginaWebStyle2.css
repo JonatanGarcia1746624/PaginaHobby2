@@ -1,0 +1,17 @@
+/* Fondo de la pagina */
+#cuerpo {background-color: black;}
+
+/* Titulo de la Pagina */
+#title {color: turquoise; font-size: 60px;}
+
+/* Hobby 1 */
+#hobby1 {color: darkblue; background-color: lavender; font-size: 40px;}
+#hobby1P {color: blue; font-size: 30px;}
+
+/* Hobby2 */
+#hobby2 {color: green; background-color: beige; font-size: 40px;}
+#hobby2P {color: seagreen; font-size: 30px;}
+
+/* Hobby3 */
+#hobby3 {color: yellow; background-color: purple; font-size: 40px;}
+#hobby3P {color: yellowgreen; font-size: 30px;}
